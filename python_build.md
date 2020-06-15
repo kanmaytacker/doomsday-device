@@ -17,6 +17,7 @@
 - [Poetry](https://python-poetry.org/)
 
 ### Fun Stuff
+- [Zen of python](https://www.python.org/doc/humor/#id1)
 - [Sample python sample](https://github.com/pypa/sampleproject/blob/master/setup.py)
 - [Semantic Versioning](https://semver.org/)
 - [Pyproject.toml](https://www.python.org/dev/peps/pep-0518/)
